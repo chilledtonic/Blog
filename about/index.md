@@ -1,10 +1,10 @@
-- [ ] ---
+---
 title: About
 date: 2021-02-25T10:17:12.000-07:00
 frenchDate: 7 Ventôse CCXXIX
-disableComments: true
-
 ---
+
+
 I'm Alex, also known as Tonic in some online spaces, and this is my blog.
 
 There's not going to be any one consistent topic focused in on on this site - I tend to write infrequently and what I'm working on is always changing - but I love Hi-Fi Music, Vinyl Collecting, Retro Computing, Film Photography; I read a lot, eat a lot, and like to build things, so if you like anything on that list, I'm sure you'll find something that interests you here.
