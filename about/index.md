@@ -1,4 +1,4 @@
----
+- [ ] ---
 title: About
 date: 2021-02-25T10:17:12.000-07:00
 frenchDate: 7 Ventôse CCXXIX
@@ -60,5 +60,9 @@ The [Applause Button](https://applause-button.com/) is built by [Colin Eberhardt
 1. Why does your blog use both the Gregorian Calendar and the French Republican Calendar?
 
 Because the French Republican Calendar is sick, no further questions
+
+2. Why the name "Canned Fish"
+
+The domain came to me in a dream.
 
 ~~You can also link to this blog at: [🥫🐟.ws](https://🥫🐟.ws)~~
