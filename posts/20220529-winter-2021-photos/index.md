@@ -1,11 +1,11 @@
-+++
-date = 2022-05-29T07:00:00Z
-frenchDate = "10 Prairial CCXXX"
-tags = ["photography"]
-title = "Photography, Winter 2021"
-writer = "Alex S."
-
-+++
+---
+date: 2022-05-29T07:00:00Z
+frenchDate: "10 Prairial CCXXX"
+tags: ["photography"]
+title: "Photography, Winter 2021"
+writer: "Alex S."
+aliases: [/220529]
+---
 These are a collection of photos from last Christmas, winter 2021. They were taken in a single afternoon at the same location - the beach located in Mill Bay, Victoria.
 
 All were shot on my [Nikon FE2](https://camerapedia.fandom.com/wiki/Nikon_FE2) with a 50mm Series E lens, on [Ilford HP5+](https://www.ilfordphoto.com/hp5-plus-35mm?) Black & White Film, pushed to 1600 ISO.

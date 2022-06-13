@@ -1,11 +1,12 @@
-+++
-date = 2022-05-24T07:00:00Z
-frenchDate = "5 Prairial CCXXX"
-tags = ["meta","blog-updates"]
-title = "Blogging, Updates"
-tldr = "I fixed the website, got rid of IPFS support, and promised to write more often."
-writer = "Alex S."
-+++
+---
+date: 2022-05-24T07:00:00Z
+frenchDate: "5 Prairial CCXXX"
+tags: ["meta","blog-updates"]
+title: "Blogging, Updates"
+tldr: "I fixed the website, got rid of IPFS support, and promised to write more often."
+writer: "Alex S."
+aliases: [/220524]
+---
 
 I stopped updating this blog after two posts for a couple reasons:
 

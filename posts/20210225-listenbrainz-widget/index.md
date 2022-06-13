@@ -7,7 +7,7 @@ tldr: "This website scrapes ListenBrainz for what I'm currently listening to, an
 images:
 - images/listenbrainz-widgetcode.png
 tags: ["blog-updates","development","JavaScript","guides"]
-aliases: [/s/de8b6]
+aliases: [/210224]
 ---
 
 ![A pretty image of a JavaScript function to pull information from ListenBrainz, listed in text below](lb-code-snap.png)

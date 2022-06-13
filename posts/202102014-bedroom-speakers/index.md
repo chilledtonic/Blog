@@ -1,11 +1,12 @@
-+++
-date = 2021-03-14T07:00:00Z
-frenchDate = "24 Ventôse CCXXIX"
-images = ["/uploads/passive.jpg", "/uploads/sonos.jpg"]
-tags = ["music", "technology"]
-title = "The Bedroom Speaker Conundrum"
+---
+date: 2021-03-14T07:00:00Z
+frenchDate: "24 Ventôse CCXXIX"
+images: ["/uploads/passive.jpg", "/uploads/sonos.jpg"]
+tags: ["music", "technology"]
+title: "The Bedroom Speaker Conundrum"
+aliases: [/210314]
+---
 
-+++
 I would like to have speakers in my bedroom. Currently, my receiver has two bookshelf speakers that are loud enough for the whole common area of our apartment, but it would be nice to listen to quieter music while I'm reading in bed.
 
 This post is to outline the two main solutions I've come up with.

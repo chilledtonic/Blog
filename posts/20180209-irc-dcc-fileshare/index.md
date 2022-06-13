@@ -4,6 +4,7 @@ date: 2018-02-09 09:45:03
 frenchDate: 21 Pluviôse CCXXVI
 tags: ["filesharing","guides","irc"]
 tldr: "this is an ancient post about how DCC works for file sharing. It is mostly deprecated."
+aliases: [/180209]
 ---
 
 The concept of Filesharing (and digital piracy) has been around since before even the basic days of the internet - where floppy disks, and, even earlier, rolls of punch-paper, were shared at swap meets.
