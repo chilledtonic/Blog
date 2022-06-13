@@ -1,8 +1,8 @@
 ---
-title: "The ListenBrainz Widget"
-date: 2022-06-13T11:16
-frenchDate: 24 Prairial CCXXX
-draft: true
+title: "Permashortlinks & Cloudflare Webworkers"
+date: 2022-06-13T07:00:00Z
+frenchDate: "24 Prairial CCXXX"
+draft: false
 tldr: "In the spirit of Indieweb, I created a permashortlink parser - and a traditional shortlink creator - using CloudFlare Webworkers."
 tags: ["development","JavaScript","indieweb"]
 aliases: [/220613]
@@ -11,6 +11,7 @@ aliases: [/220613]
 I've been investigating more deeply about [Indieweb](https://indieweb.org/permashortlink), namely their idea of a permashortlink - put succinctly, it is inevitable that shortlinking providers will either
 1. Fold, or
 2. Deprecate underused links.
+
 This means that relying on them - and they are awfully convenient - is a net negative to the longevity of any web content you produce - and we've [already seen it happen](https://www.poynter.org/reporting-editing/2009/tr-ims-shutdown-shows-risk-of-relying-on-free-services-to-drive-web-traffic/).
 
 The Indieweb solution to this deprecation problem is, of course - to roll your own. Reading the wiki about this raises the same problem I have with a lot of Indieweb content - it's a wiki clearly written by developers. I don't think it's actionable for the average web content consumer - even if they were gunhoe about running their own blog - to roll any of the permashortlink solutions mentioned on the [wiki](http://tantek.pbworks.com/w/page/21743973/Whistle) by themselves.
@@ -22,9 +23,11 @@ The idea of a permashortlink is that if I control the pathing of the content, th
 
 For example, most blogs organize their content by the date you posted them. You could, say, have your Hugo config [explicitly create](https://gohugo.io/content-management/urls/#permalinks) all your blogposts with the following pathing:
 
-```toml
-[permalinks]
-  posts = '/:year/:month/:day/'
+```yaml
+permalinks: {
+  posts: '/:year/:month/:day/'
+}
+  
 ```
 
 Lets say that creates a url like `cannedfi.sh/2022/06/13`.
@@ -46,7 +49,7 @@ You could likely setup a second shorter url and just use CNAME dns records to re
 
 Put short, It's a Javascript Router that redirects from the shortlink to the full link; the code looks like this
 
-```javascript
+```js
 router.get('/b/:slug', async request => {
 	let link = "https://cannedfi.sh/"+request.params.slug;
 	if (link) {
@@ -73,7 +76,7 @@ This code is based off of [this tutorial](https://dev.to/mmascioni/build-a-link-
 
 I chose instead of generating a random slug to instead Hash the URL and truncate the hash. I'm not very worried about collisions at this point in time, but I'll let you know if this decision bites me in the ass on a future date.
 
-``` javascript
+```js
 router.post('/n', async request => {
   let requestBody = await request.json();
   let slug = ADLER32.str(requestBody.url).toString(16).slice(0,5)
@@ -99,4 +102,4 @@ router.post('/n', async request => {
 })
 ```
 
-Somewhere someone is angry I'm using [ADLER32](https://en.wikipedia.org/wiki/Adler-32)as a hash function - but that's why I'm doing it! To make you, imaginary reader, explicitly upset about it.
+Somewhere someone is angry I'm using [ADLER32](https://en.wikipedia.org/wiki/Adler-32) as a hash function - but that's why I'm doing it! To make you, imaginary reader, explicitly upset about it.
