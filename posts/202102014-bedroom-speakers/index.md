@@ -2,7 +2,7 @@
 date: 2021-03-14T07:00:00Z
 frenchDate: "24 Ventôse CCXXIX"
 images: ["/uploads/passive.jpg", "/uploads/sonos.jpg"]
-tags: ["music", "technology"]
+tags: ["music", "technology", "ikea", "hifi"]
 title: "The Bedroom Speaker Conundrum"
 aliases: [/210314]
 ---

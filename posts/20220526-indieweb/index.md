@@ -2,7 +2,7 @@
 date: 2022-05-26T07:00:00Z
 draft: false
 frenchDate: "5 Prairial CCXXX"
-tags: ["meta","blog-updates"]
+tags: ["meta","blog-updates","indieweb"]
 title: "I Added Indieweb Support"
 tldr: "I added microformat tags to all the blog content, and setup (basic) webmentions. I think it's a fine idea, but don't really think it'll go anywhere."
 writer: "Alex S."
