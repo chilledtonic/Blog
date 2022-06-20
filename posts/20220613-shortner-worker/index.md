@@ -77,7 +77,7 @@ This code is based off of [this tutorial](https://dev.to/mmascioni/build-a-link-
 I chose instead of generating a random slug to instead Hash the URL and truncate the hash. I'm not very worried about collisions at this point in time, but I'll let you know if this decision bites me in the ass on a future date.
 
 ```js
-router.post('/n', async request => {
+router.post('', async request => {
   let requestBody = await request.json();
   let slug = ADLER32.str(requestBody.url).toString(16).slice(0,5)
   if ('url' in requestBody) {
