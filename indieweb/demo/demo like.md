@@ -4,6 +4,7 @@ mflikeof: https://twitter.com/ai_curio_bot/status/1538869911220629504
 mfSource: twitter
 slug: "like-1404"
 draft: true
+title: Demo Like
 ---
 
 feeling fine
