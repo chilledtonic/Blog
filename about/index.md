@@ -41,17 +41,21 @@ Here's a list of all the stuff I use everyday. C O N S U M E
 
 ## How this Blog Works
 
-This blog is built with [Hugo](https://gohugo.io/), a static site generator written in Go; special thanks to [Athul](https://github.com/athul), who wrote the [Archie](https://github.com/athul/archie) theme, which is the bones of this blogs design. The site is pushed to Github and built automagically with [Fleek](https://fleek.co/), which in turn deploys it on the [Interplanetary File System](https://ipfs.io/); meaning this site is powered by the distributed web!
+This blog is built with [Hugo](https://gohugo.io/), a static site generator written in Go; special thanks to [Athul](https://github.com/athul), who wrote the [Archie](https://github.com/athul/archie) theme, which is the bones of this blogs design.
+
+The site is built automatically using [Vercel](https://vercel.com/dashboard). It works fine. Someday I'd like it to run off of [https://srht.site](Source Hut), and add Gemini support.
+
+Shortlinks to this domain come through https://cfsh.lol
 
 ~~Comments are served by [Commento](https://commento.io/), which may be subject to change in the future.~~
 
+Comments are [Webmentions!](https://indieweb.org/Webmention)
+
 ~~Posts are written using [Forestry](https://forestry.io "Forestry"), which may be subject to change in the future.~~
 
+I write my posts in [Obsidian](https://obsidian.md/) or [on my phone](https://gitjournal.io/)
+
 The [Applause Button](https://applause-button.com/) is built by [Colin Eberhardt](https://github.com/ColinEberhardt/).
-
-~~You can also connect to this blog through ENS, an alternate domain controller built on Ethereum.~~
-
-~~[https://cannedfish.eth/](https://cannedfish.eth/)~~
 
 ## Other FAQ's
 
@@ -62,5 +66,3 @@ Because the French Republican Calendar is sick, no further questions
 2. Why the name "Canned Fish"
 
 The domain came to me in a dream.
-
-~~You can also link to this blog at: [🥫🐟.ws](https://🥫🐟.ws)~~
