@@ -1,9 +1,9 @@
 ---
-date: 2022-06-26T17:00:00-06:00
+date: 2022-06-26T13:36:00-06:00
 webmentionType: checkin
 checkinLat: 51.04125
 checkinLon: -114.06625
-title: History of Dance Music Lecture
+title: History of Dance Music Lecture @ KaffeeKlatsch
 draft: false
 ---
 
