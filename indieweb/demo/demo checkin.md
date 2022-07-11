@@ -5,6 +5,7 @@ checkinLat: 51.0413838
 checkinLon: -114.0677938
 title: Demo Checkin
 draft: true
+tags: ["Check In", "Indieweb"]
 ---
 
 Working at the carwash till 7PM

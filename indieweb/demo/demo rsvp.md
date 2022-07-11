@@ -5,4 +5,5 @@ rsvpEventName: Example Event
 rsvpURL: https://google.com
 draft: true
 title: Demo RSVP
+tags: ["RSVP", "Indieweb"]
 ---

@@ -5,6 +5,7 @@ mfSource: twitter
 slug: "like-1404"
 draft: true
 title: Demo Like
+tags: ["Like", "Indieweb"]
 ---
 
 feeling fine

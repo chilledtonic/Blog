@@ -5,6 +5,7 @@ mfSource: twitter
 embedToken: AKky6t0QCsSxYcJ0iG
 draft: true
 title: Demo Reply
+tags: ["Replies", "Indieweb"]
 ---
 
 feeling fine
