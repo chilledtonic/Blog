@@ -21,8 +21,6 @@ Here are some other cool spaces on the internet I recommend:
 
 I also run the [Lucky Cat Chat](https://luckycat.chat), which is a Federated Social Network . If you're looking to join the Fediverse, or are tired of the node you're on, I invite you to join me! I'm a pretty casual admin.
 
-I'm on a smattering of other social networks, but the Lucky Cat is the main one.
-
 ## What I Carry in my Pockets
 
 Here's a list of all the stuff I use everyday. C O N S U M E
