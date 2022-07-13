@@ -41,7 +41,7 @@ Here's a list of all the stuff I use everyday. C O N S U M E
 
 This blog is built with [Hugo](https://gohugo.io/), a static site generator written in Go; special thanks to [Athul](https://github.com/athul), who wrote the [Archie](https://github.com/athul/archie) theme, which is the bones of this blogs design.
 
-The site is built automatically using [Vercel](https://vercel.com/dashboard). It works fine. Someday I'd like it to run off of [https://srht.site](Source Hut), and add Gemini support.
+The site is built automatically using [Vercel](https://vercel.com/dashboard). It works fine. Someday I'd like it to run off of [Source Hut](https://srht.site), and add Gemini support.
 
 Shortlinks to this domain come through https://cfsh.lol
 
