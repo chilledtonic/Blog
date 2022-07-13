@@ -53,7 +53,7 @@ Comments are [Webmentions!](https://indieweb.org/Webmention)
 
 I write my posts in [Obsidian](https://obsidian.md/) or [on my phone](https://gitjournal.io/)
 
-The [Applause Button](https://applause-button.com/) is built by [Colin Eberhardt](https://github.com/ColinEberhardt/).
+~~The [Applause Button](https://applause-button.com/) is built by [Colin Eberhardt](https://github.com/ColinEberhardt/).~~
 
 ## Other FAQ's
 
