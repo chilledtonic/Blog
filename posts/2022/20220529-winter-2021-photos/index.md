@@ -25,4 +25,4 @@ All were shot on my [Nikon FE2](https://camerapedia.fandom.com/wiki/Nikon_FE2) w
 
 All photographs Copyright Alex Spezowka, 2022. All Rights Reserved.
 
-You do not have the right to distribute or use these photos, for any purpose, without [explicit permission](https://cannedfi.sh/contact) of the creator.
+You do not have the right to distribute or use these photos, for any purpose, without [explicit permission](https://lagomor.ph/contact) of the creator.
