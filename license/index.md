@@ -9,7 +9,7 @@ draft: false
 ![Only non-commercial use is permitted](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)
 ![Adaptations must use the same terms](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
 
-The content originating from this site is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International ( CC BY-NC-SA 4.0 ) License.
+Unless otherwise specified, the content originating from this site is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International ( CC BY-NC-SA 4.0 ) License.
 
 # In Plain English
 
