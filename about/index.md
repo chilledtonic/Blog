@@ -61,6 +61,10 @@ I write my posts in [Obsidian](https://obsidian.md/) or [on my phone](https://gi
 
 Because the French Republican Calendar is sick, no further questions
 
-2. Why the name "Canned Fish"
+~~2. Why the name "Canned Fish"~~
 
-The domain came to me in a dream.
+~~The domain came to me in a dream.~~
+
+2. Why the name "Lagomor.ph"
+
+The domain came to me in a dream, and I like rabbits.
